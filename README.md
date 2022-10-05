@@ -18,3 +18,7 @@ Dieses Notebook nimmt Newsletter der Gesellschaft für Medienwissenschaft (GfM) 
 - erstellt die Tabelle `meldungen.csv` mit sämtlichen Newsletter-Einträgen
 - erstellt die Tabelle `stellenanzeigen.csv` mit den Volltexten der Stellenanzeigens
 - bietet Analysetools an
+
+## Installation
+
+Eine Anleitung zur [lokalen Installation von Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/).
