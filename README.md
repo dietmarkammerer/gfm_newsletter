@@ -3,8 +3,9 @@ Daten und Code für meine Präsentation auf der Jahrestagung der [Gesellschaft f
 
 ## Abstract
 
-Die [Gesellschaft für Medienwissenschaft (GfM)](https://gfmedienwissenschaft.de/) verschickt etwa einmal pro Woche einen Newsletter an ihre Mitglieder. Dieser enthält Meldungen in den Kategorien "Call", "Veranstaltungen", "Stellenausschreibungen" u. a. mehr. Das macht den Newsletter zu einer Forschungsressource zur Entwicklung der Medienwissenschaft im deutschsprachigen Raum.  
-Das Archiv der Newsletter 2015-2021 enthält rund 1000 Stellenanzeigen. Diese werden nach Datum, Standort, Stellenbeschreibung, Besoldungsgruppe ausgewertet. Auf diese Weise wird die Entwicklung von Stellen in der Medienwissenschaft (im deutschsprachigen Raum) untersuchbar. Das Vorgehen ist explorativ und dient der Veranschaulichung der aktuellen Möglichkeiten, aber auch der Grenzen von datenbasierter Forschung im Fach. Alle verwendeten Daten, Tools und Visualisierungen werden über GitHub bereit gestellt. Das Projekt lädt ein zur Diskussion, welche Einrichtungen (Infrastrukturen, Praktiken) helfen könnten, bestehende Defizite und Desiderate datenbasierter Forschung abzubauen.
+Die [Gesellschaft für Medienwissenschaft (GfM)](https://gfmedienwissenschaft.de/) verschickt in der Regel wöchentlich einen Newsletter an ihre Mitglieder. Dieser enthält Meldungen in den Kategorien "Call", "Veranstaltungen", "Stellenausschreibungen" u. a. mehr. Das macht den Newsletter zu einer Forschungsressource zur Entwicklung der Medienwissenschaft im deutschsprachigen Raum.  
+Das Archiv der Newsletter 2015-2021 enthält rund 1000 Stellenanzeigen. Das Notebook hilft dabei, diese nach Datum, Standort, Stellenbeschreibung, Besoldungsgruppe auszuwerten. Auf diese Weise wird die Entwicklung von Stellen in der Medienwissenschaft im deutschsprachigen Raum untersuchbar. 
+Das Vorgehen ist explorativ und dient der Veranschaulichung der aktuellen Möglichkeiten, aber auch der Grenzen von datenbasierter Forschung in der Medienwissenschaft.
 
 ## Screenshot Newsletter
 
